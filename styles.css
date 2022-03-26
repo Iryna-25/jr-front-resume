@@ -34,7 +34,7 @@ p {
 .up, .down {
     display: flex;
     flex-direction: row;
-    width: 1560px;
+    width: 1100px;
 }
 
 .down {
