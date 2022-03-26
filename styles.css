@@ -34,7 +34,7 @@ p {
 .up, .down {
     display: flex;
     flex-direction: row;
-    width: 1100px;
+    width: 1000px;
 }
 
 .down {
@@ -59,7 +59,7 @@ p {
 
 .name {
     text-transform: uppercase;
-    font-size: 70px;
+    font-size: 50px;
     margin: 0px;
     padding: 0px;
     color: #5f5e5e;
@@ -67,13 +67,13 @@ p {
 }
 
 .position {
-    font-size: 35px;
+    font-size: 25px;
     margin: 0px;
-    color: #5f5e5e;
+    color:#eeb3aa;
 }
 
 .text {
-    margin-top: 80px;
+    margin-top: 45px;
     max-width: 450px;
 }
 
